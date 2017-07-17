@@ -18,3 +18,5 @@ git config --global user.email jingaespinoza@gmail.com
 git config --global core.editor vim
 git config --list
 ```
+
+Esta líena fue creada en la rama master.
